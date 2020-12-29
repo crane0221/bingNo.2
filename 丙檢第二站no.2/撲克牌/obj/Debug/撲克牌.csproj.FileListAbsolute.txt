@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#\丙檢第二站\撲克牌\bin\Debug\撲克牌.exe.config
+C:\Users\user\Desktop\C#\丙檢第二站\撲克牌\bin\Debug\撲克牌.exe
+C:\Users\user\Desktop\C#\丙檢第二站\撲克牌\bin\Debug\撲克牌.pdb
+C:\Users\user\Desktop\C#\丙檢第二站\撲克牌\obj\Debug\撲克牌.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#\丙檢第二站\撲克牌\obj\Debug\撲克牌.Form1.resources
+C:\Users\user\Desktop\C#\丙檢第二站\撲克牌\obj\Debug\撲克牌.Properties.Resources.resources
+C:\Users\user\Desktop\C#\丙檢第二站\撲克牌\obj\Debug\撲克牌.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\丙檢第二站\撲克牌\obj\Debug\撲克牌.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\丙檢第二站\撲克牌\obj\Debug\撲克牌.exe
+C:\Users\user\Desktop\C#\丙檢第二站\撲克牌\obj\Debug\撲克牌.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#\丙檢第二站\四則運算\bin\Debug\四則運算.exe.config
+C:\Users\user\Desktop\C#\丙檢第二站\四則運算\bin\Debug\四則運算.exe
+C:\Users\user\Desktop\C#\丙檢第二站\四則運算\bin\Debug\四則運算.pdb
+C:\Users\user\Desktop\C#\丙檢第二站\四則運算\obj\Debug\四則運算.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#\丙檢第二站\四則運算\obj\Debug\四則運算.Form1.resources
+C:\Users\user\Desktop\C#\丙檢第二站\四則運算\obj\Debug\四則運算.Properties.Resources.resources
+C:\Users\user\Desktop\C#\丙檢第二站\四則運算\obj\Debug\四則運算.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\丙檢第二站\四則運算\obj\Debug\四則運算.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\丙檢第二站\四則運算\obj\Debug\四則運算.exe
+C:\Users\user\Desktop\C#\丙檢第二站\四則運算\obj\Debug\四則運算.pdb
